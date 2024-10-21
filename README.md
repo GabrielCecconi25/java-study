@@ -1,2 +1,2 @@
 # studying Java Language
-Basic stuf only, still learning
+Basic stuff only, still learning
